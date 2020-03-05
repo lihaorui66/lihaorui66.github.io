@@ -2105,7 +2105,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #7845ff;
+  background: #d5a7ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3199,10 +3199,10 @@ body {
 }
 .main-inner {
   background: #fff;
-  opacity: 0.8;
+  opacity: 0.75;
 }
 .header-inner {
-  opacity: 0.8;
+  opacity: 0.75;
 }
 .menu .menu-item a {
   padding: 5px 20px;
