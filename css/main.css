@@ -2106,7 +2106,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fcff41;
+  background: #ff59bd;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3275,17 +3275,17 @@ img:hover {
   }
 }
 body {
-  background: url("https://source.unsplash.com/");
+  background: url("/uploads/beijing.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: 100% 100%;
+  background-position: 50% 50%;
 }
 .main-inner {
   background: #fff;
-  opacity: 0.82;
+  opacity: 0.75;
 }
 .header-inner {
-  opacity: 0.82;
+  opacity: 0.75;
 }
 .menu .menu-item a {
   padding: 5px 20px;
@@ -3398,4 +3398,10 @@ pre {
 }
 .sidebar-toggle {
   left: 30px;
+}
+* {
+  cursor: url("/images/rain.ico"), auto !important;
+}
+:active {
+  cursor: url("/images/pig.ico"), auto !important;
 }
